@@ -1,1 +1,2 @@
-alert("Hola a todos")
+var mensaje = "Quiero crear un conflicto"
+alert(mensaje)
